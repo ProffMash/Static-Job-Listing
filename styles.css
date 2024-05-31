@@ -21,8 +21,11 @@ body {
 .selected-filters {
     display: flex;
     gap: 10px;
+    background-color: rgb(117, 216, 183); 
+    padding: 25px;
+    width: 100%; 
+    border-radius: 5px;
 }
-
 .filter-btn {
     background-color: #5ba4a4;
     color: #fff;
